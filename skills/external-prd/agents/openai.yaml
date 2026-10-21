@@ -1,0 +1,4 @@
+interface:
+  display_name: "对外 PRD 文档"
+  short_description: "制作结构清楚、字体统一、目录规范、排版朴素的客户产品需求文档"
+  default_prompt: "请使用 $external-prd，根据提供的项目资料制作一份正式、简洁的对外 PRD Word 文档。"
